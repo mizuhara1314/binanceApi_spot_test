@@ -4,6 +4,7 @@
 由於是純web_api所以用自帶的swagger_ui套件測試
 
 **注意事項**
+
 找到幣安Spotapi的testnet官方使用文檔或github使用文檔，找testnet的baseUrl，同時注意官方文檔
 
 只能選api不能sapi的，同時選擇不需要ip認證(不需要暴露在外網環境)的api做測試
