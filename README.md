@@ -4,7 +4,7 @@
 由於是純web_api所以用自帶的swagger_ui套件測試
 
 **注意事項**
-找到幣安Spotapi的testnet官方使用文檔或github使用文檔，找testnet的baseUrl(https://testnet.binance.vision/api)，同時注意官方文檔
+找到幣安Spotapi的testnet官方使用文檔或github使用文檔，找testnet的baseUrl，同時注意官方文檔
 
 Can I use the /sapi endpoints on the Spot Test Network?
 No, only the /api endpoints are available on the Spot Test Network:
