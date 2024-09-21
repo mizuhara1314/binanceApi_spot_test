@@ -62,7 +62,9 @@ https://binance-docs.github.io/apidocs/spot/en/#test-new-order-using-sor-trade
 
 **查詢帳戶歷史交易**
 
+![image](https://github.com/user-attachments/assets/eb7cf743-d9d8-4015-92cf-f8dc4a50fde1)
 
+因為測試環境下沒人要跟我買所以回傳空值xd
 
 
 # 4. 收穫：
