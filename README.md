@@ -18,7 +18,7 @@ https://binance-docs.github.io/apidocs/spot/en/#test-new-order-using-sor-trade
 
 **BinanceResponse**    定義post，接收回傳資料這種需要大結構的model，其他就直接傳參數
 
-**appsettings.json:**   環境變量設定檔，不多介紹，我把金鑰跟BaseUrl全放進去(實際上最好分開比較好)
+**appsettings.json:**   環境變量設定檔，不多介紹，我把金鑰跟BaseUrl全放進去(實際上分開比較好)
 
 **csproj:**          管理套件，要增加json反序列化套件，然後執行dotnet restore安裝更新
 
