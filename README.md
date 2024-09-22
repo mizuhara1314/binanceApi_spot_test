@@ -12,9 +12,9 @@
 https://binance-docs.github.io/apidocs/spot/en/#test-new-order-using-sor-trade
 
 # 2. 文件說明
-**BinanceEndpoints:**  處理前端api請求的邏輯(controller)，需要寫signature加密函數確保有關帳戶請求的安全性和有效性
+**BinanceEndpoints:**  處理前端api請求的邏輯分發(controller)
 
-**BinanceService:**    與 Binance API 進行交互的邏輯
+**BinanceService:**    與 Binance API 進行交互的邏輯，需要寫signature加密函數確保有關帳戶請求的安全性和有效性
 
 **BinanceResponse**    定義post，接收回傳資料這種需要大結構的model，其他就直接傳參數
 
