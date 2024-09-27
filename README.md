@@ -70,6 +70,9 @@ https://binance-docs.github.io/apidocs/spot/en/#test-new-order-using-sor-trade
 # 4. 收穫：
 熟悉一下asp.net與其他後端框架語法差別，項目架構(環境變數，套件管理，運行端口設置)差異，順便了解如何串接三方api與設計rest_api，測試api時遇到的加密認證與過濾器限制問題
 
+# 5. 改進
+之後可以用ngork,localtunnel測試需要回調地址的api，或是部署時使用反向代理測試
+
 
 
 
